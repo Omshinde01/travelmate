@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/travelmate/static/css/main.70eab266.css",
+    "main.js": "/travelmate/static/js/main.ab76b0eb.js",
+    "static/js/453.be6fe0ee.chunk.js": "/travelmate/static/js/453.be6fe0ee.chunk.js",
+    "static/media/extra2.jpg": "/travelmate/static/media/extra2.e2993d2167f854a973f2.jpg",
+    "static/media/manali.jpg": "/travelmate/static/media/manali.4cb69677258761692fc4.jpg",
+    "static/media/bg1.jpg": "/travelmate/static/media/bg1.ea807725556aa581df51.jpg",
+    "static/media/jaipur.jpg": "/travelmate/static/media/jaipur.65ddcd0651181a24f058.jpg",
+    "static/media/extra1.jpeg": "/travelmate/static/media/extra1.a023e96760766b9fa08a.jpeg",
+    "static/media/kedarnath.jpeg": "/travelmate/static/media/kedarnath.691eb7be568bd1fd278a.jpeg",
+    "static/media/nainital.jpg": "/travelmate/static/media/nainital.23d2f4ee47056ab4d53b.jpg",
+    "static/media/extra3.jpg": "/travelmate/static/media/extra3.b069503d1d8a04b1e9f4.jpg",
+    "static/media/extra4.jpeg": "/travelmate/static/media/extra4.e262cd7fb16c825df08a.jpeg",
+    "static/media/logo.png": "/travelmate/static/media/logo.98ce53645758e771c4c0.png",
+    "static/media/logo.svg": "/travelmate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travelmate/index.html",
+    "main.70eab266.css.map": "/travelmate/static/css/main.70eab266.css.map",
+    "main.ab76b0eb.js.map": "/travelmate/static/js/main.ab76b0eb.js.map",
+    "453.be6fe0ee.chunk.js.map": "/travelmate/static/js/453.be6fe0ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70eab266.css",
+    "static/js/main.ab76b0eb.js"
+  ]
+}
